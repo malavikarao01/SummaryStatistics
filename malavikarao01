@@ -1,0 +1,7 @@
+a <- c(4, 3, 4, 3, 2, 4, 4, 4)
+b<-mean(a)
+c<-median(a)
+d<-sd(a)
+print(b)
+print(c)
+print(d)
